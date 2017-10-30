@@ -1,4 +1,3 @@
-@@ -0,0 +1,152 @@
 div{
 	position:absolute;/*给所有div设置绝对定位*/
 }
@@ -150,4 +149,11 @@ body{
 	left: 172px;
 	top: 251px;
 	transform: skewY(-15deg);
+}
+img{
+	position: fixed;
+	top: 8px;
+	left: 225px;
+	width: 350px;
+	height: 110px;
 }
